@@ -6,7 +6,7 @@
 package restaurentcheckout;
 
 /**
- *
+ ******
  * @author Anjan
  */
 public class Calculator {
